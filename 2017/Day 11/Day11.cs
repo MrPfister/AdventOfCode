@@ -6,12 +6,10 @@ using System.Text;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace AdventOfCode
 {
     class Program
     {
-        static List<List<int>> ulam = new List<List<int>>();
-
         static void Main(string[] args)
         {
             // Day 11
